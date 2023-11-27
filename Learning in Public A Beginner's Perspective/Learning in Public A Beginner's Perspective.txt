@@ -1,12 +1,20 @@
-Hey, my name is Eshaan Walia, I am a 2nd-year student and have developed a keen interest in the world of tech and open-source. Welcome to my first blog!
+Hey, my name is Eshaan Walia, I am a 2nd-year student and have developed a keen interest in the world of tech and open-source.
+Welcome to my first blog!
 
-I am a self-taught programmer, however, my roots in the field are not so deep yet. As I continued to explore more, I came across the concept of "Learning in Public". For a long time, I had a sense of ambiguity around this topic, as to what it actually means? or how do I actually do it? As I explored other people's work and peeked more into open source, this concept finally started making sense to me and the clouds of confusion began to vanish. I'll try to summarise my understanding here.
+I am a self-taught programmer, however, my roots in the field are not so deep yet. As I continued to explore more, I came across
+the concept of "Learning in Public". For a long time, I had a sense of ambiguity around this topic, as to what it actually means?
+or how do I actually do it? As I explored other people's work and peeked more into open source, this concept finally started making 
+sense to me and the clouds of confusion began to vanish. I'll try to summarise my understanding here.
 
 What does it mean to learn in public?
-Learning in public is the concept of sharing your learnings, in your journey of skill development, through blogs, tweets, yt videos or any preferred medium. The idea is to document the process of learning a new skill to the internet. This creates evidence of work and helps build communities, find mentors and peers in the field, and create career opportunities in the long run.
+Learning in public is the concept of sharing your learnings, in your journey of skill development, through blogs, tweets, yt videos 
+or any preferred medium. The idea is to document the process of learning a new skill to the internet. This creates evidence of work 
+and helps build communities, find mentors and peers in the field, and create career opportunities in the long run.
 
 Why learn in public?
-Learning in public creates proof of work, which fuels the motivation to be consistent. The key benefit of learning in public is the community. Experts in the field can share advice and give guidance to you by looking at your work, and you may end up helping someone new to the field! It is a great way of building your network.
+Learning in public creates proof of work, which fuels the motivation to be consistent. The key benefit of learning in public is the 
+community. Experts in the field can share advice and give guidance to you by looking at your work, and you may end up helping someone
+new to the field! It is a great way of building your network.
 
 How can I learn in public?
 Two main thoughts that came to my mind when I decided to learn in public were
@@ -17,8 +25,12 @@ What will I even write about?
 
 See the thing is
 
-You don't need to be an expert here. The entire idea is to learn and grow while projecting the journey. This doesn't need to be some perfect piece of literature crafted by the gods of tech. No. Everyone starts somewhere in this journey, learning in public allows you to grow faster.
+You don't need to be an expert here. The entire idea is to learn and grow while projecting the journey. This doesn't need to be some
+perfect piece of literature crafted by the gods of tech. No. Everyone starts somewhere in this journey, learning in public allows yo
+u to grow faster.
 
-Write about anything. Write about something new you learnt. Write about a new experience you got. As long as it is related to the overall theme you are documenting, just write. Don't worry about the numbers or anything else. You are writing this for yourself. If you ever get wrong, just admit and learn.
+Write about anything. Write about something new you learnt. Write about a new experience you got. As long as it is related to the overall
+theme you are documenting, just write. Don't worry about the numbers or anything else. You are writing this for yourself. If you ever get 
+wrong, just admit and learn.
 
 This Blog page is my attempt to learn in public. I hope I can be consistent about it. Thank you for reading!
